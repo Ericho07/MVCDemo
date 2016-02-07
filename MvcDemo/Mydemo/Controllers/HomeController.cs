@@ -26,5 +26,12 @@ namespace Mydemo.Controllers
 
             return View();
         }
+
+
+        public ActionResult GetContact()
+        {
+
+            return View();
+        }
     }
 }
